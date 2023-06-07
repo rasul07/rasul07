@@ -4,7 +4,7 @@
 
   
 
-I am Abdurasul Rustamov, Golang Developer with 1 year experience primarily working on backend API services.
+I am Abdurasul Rustamov, Golang Developer with 2 years experience primarily working on backend API services.
 
 <br  />
 
