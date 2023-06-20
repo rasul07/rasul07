@@ -12,7 +12,7 @@ I am Abdurasul Rustamov, Golang Developer with 2 years experience primarily work
 <br  />
  🏢: I’m currently working at [Udevs](https://www.udevs.io/)
 <br  />
- 📫: rustamov.abdurasul@inbox.ru
+ 📫: iamrasulrustamov@gmail.com
 <br  />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/abdurasul-rustamov-9258ba189)](www.linkedin.com/in/abdurasul-rustamov-9258ba189)
