@@ -10,7 +10,7 @@ I am Abdurasul Rustamov, Golang Developer with 2 years experience primarily work
 
   
 <br  />
- 🏢: I’m currently working at [Udevs](https://www.udevs.io/)
+ 🏢: I’m currently working at [Automacon](https://www.automacon.ru/)
 <br  />
  📫: iamrasulrustamov@gmail.com
 <br  />
