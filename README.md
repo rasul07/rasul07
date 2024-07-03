@@ -4,10 +4,9 @@
 
   
 
-I am Abdurasul Rustamov, Golang Developer with 2 years experience primarily working on backend API services.
+I am Abdurasul Rustamov, Golang Developer with 2.5 years of experience primarily working on high-load services.
 
 <br  />
-
   
 <br  />
  🏢: I’m currently working at [Automacon](https://www.automacon.ru/)
