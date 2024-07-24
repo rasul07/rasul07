@@ -4,12 +4,12 @@
 
   
 
-I am Abdurasul Rustamov, Golang Developer with 2.5 years of experience primarily working on high-load services.
+I am Abdurasul Rustamov, experienced Golang Developer primarily working on high-load services.
 
 <br  />
   
 <br  />
- 🏢: I’m currently working at [Automacon](https://www.automacon.ru/)
+ 🏢: I’m currently a Software Engineering Fellow at [HeadstarterAI](https://headstarter.co)
 <br  />
  📫: iamrasulrustamov@gmail.com
 <br  />
