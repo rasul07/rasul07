@@ -9,7 +9,7 @@ I am Abdurasul Rustamov, experienced Golang Developer primarily working on high-
 <br  />
   
 <br  />
- 🏢: I’m currently a Software Engineering Fellow at [HeadstarterAI](https://headstarter.co)
+ 🏢: I’m currently looking for new opportunities! Feel free to contact via email 👇
 <br  />
  📫: iamrasulrustamov@gmail.com
 <br  />
