@@ -4,7 +4,7 @@
 
   
 
-I am Abdurasul Rustamov, experienced Golang Developer primarily working on high-load services.
+I am Abdurasul Rustamov
 
 <br  />
  📫: iamrasulrustamov@gmail.com
